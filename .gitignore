@@ -1,0 +1,26 @@
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies and generated output
+node_modules/
+dist/
+build/
+.next/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+coverage/
+.coverage
+.pytest_cache/
+*.tsbuildinfo
+
+# Logs and editor/OS files
+*.log
+*.backup
+.DS_Store
+Thumbs.db
+.idea/
