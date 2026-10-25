@@ -1,0 +1,62 @@
+[
+  {
+    "address": "0xd90e2f925da726b50c4ed8d0fb90ad053324f31b",
+    "category": "mixer",
+    "source": "OFAC Tornado Cash",
+    "label": "Tornado Cash Router contract",
+    "confidence": 1.0,
+    "risk_weight": 50,
+    "chain": "ethereum",
+    "timestamp": "2026-09-30T20:20:43.077602+00:00"
+  },
+  {
+    "address": "0x12d66f87a04a9e220743712ce6d9bb1b5616b8fc",
+    "category": "mixer",
+    "source": "OFAC Tornado Cash",
+    "label": "Tornado Cash 0.1 ETH Pool",
+    "confidence": 1.0,
+    "risk_weight": 50,
+    "chain": "ethereum",
+    "timestamp": "2026-09-30T20:20:43.077602+00:00"
+  },
+  {
+    "address": "0x47ce0c6ed5b0ce3d3a51fdb1c52dc66a7c3c2936",
+    "category": "mixer",
+    "source": "OFAC Tornado Cash",
+    "label": "Tornado Cash 1 ETH Pool",
+    "confidence": 1.0,
+    "risk_weight": 50,
+    "chain": "ethereum",
+    "timestamp": "2026-09-30T20:20:43.077602+00:00"
+  },
+  {
+    "address": "0x910cbd523d972eb0a6f4cae4618ad62622b39dbf",
+    "category": "mixer",
+    "source": "OFAC Tornado Cash",
+    "label": "Tornado Cash 10 ETH Pool",
+    "confidence": 1.0,
+    "risk_weight": 50,
+    "chain": "ethereum",
+    "timestamp": "2026-09-30T20:20:43.077602+00:00"
+  },
+  {
+    "address": "0xa160cdab225685dA1d56aa342Ad8841c3b53f291",
+    "category": "mixer",
+    "source": "OFAC Tornado Cash",
+    "label": "Tornado Cash 100 ETH Pool",
+    "confidence": 1.0,
+    "risk_weight": 50,
+    "chain": "ethereum",
+    "timestamp": "2026-09-30T20:20:43.077602+00:00"
+  },
+  {
+    "address": "0xd4b88b27e29f923362a26007d4c06a46058084d5",
+    "category": "mixer",
+    "source": "OFAC Tornado Cash",
+    "label": "Tornado Cash 1000 USDT Pool",
+    "confidence": 1.0,
+    "risk_weight": 50,
+    "chain": "ethereum",
+    "timestamp": "2026-09-30T20:20:43.077602+00:00"
+  }
+]

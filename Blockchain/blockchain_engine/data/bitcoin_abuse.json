@@ -1,0 +1,9 @@
+[
+  {
+    "source": "PublicReport",
+    "address": "bc1qexamplepublicfeed0000000000000000000000000",
+    "category": "reported_ransomware",
+    "confidence": 0.6,
+    "risk_weight": 30
+  }
+]

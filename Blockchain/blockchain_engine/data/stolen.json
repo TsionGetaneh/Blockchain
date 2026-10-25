@@ -1,0 +1,12 @@
+[
+  {
+    "address": "0x0000000000000000000000000000000000000001",
+    "category": "stolen_funds",
+    "source": "Known Hacks Database",
+    "label": "Reported stolen funds",
+    "confidence": 0.6,
+    "risk_weight": 45,
+    "chain": "ethereum",
+    "timestamp": "2026-09-30T20:20:44.316406+00:00"
+  }
+]
